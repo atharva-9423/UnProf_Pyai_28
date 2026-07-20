@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. 
+Machine learning (ML) is a subset of AI that involves training algorithms to learn from data and make predictions. Deep learning is a specialized subset of ML based on artificial neural networks.
+A notable milestone in AI was the development of Transformers in 2017 by Google researchers. Transformers rely on an attention mechanism to weigh the importance of different parts of the input data, greatly improving performance on natural language processing tasks.
+RAG, or Retrieval-Augmented Generation, enhances large language models by retrieving relevant facts from an external knowledge base to ground the model's responses. This mitigates hallucinations and keeps the AI's knowledge up-to-date.
