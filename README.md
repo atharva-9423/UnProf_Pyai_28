@@ -39,7 +39,7 @@ Day 28 is the final quality gate before deployment. We added **15 unit tests** u
 ## 📁 Project Structure
 
 ```text
-day28/
+UnProf_Pyai_28/
 ├── app.py               # Streamlit app with full error handling
 ├── requirements.txt     # Python dependencies (+ pytest)
 ├── README.md            # This file
@@ -57,7 +57,6 @@ day28/
 
 ### 1. Install Dependencies
 ```bash
-cd day28
 pip install -U -r requirements.txt
 ```
 
