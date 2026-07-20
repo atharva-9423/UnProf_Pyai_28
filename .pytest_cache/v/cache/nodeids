@@ -1,0 +1,22 @@
+[
+  "tests/test_rag.py::TestFileValidation::test_docx_is_rejected",
+  "tests/test_rag.py::TestFileValidation::test_empty_file_rejected",
+  "tests/test_rag.py::TestFileValidation::test_no_filename_rejected",
+  "tests/test_rag.py::TestFileValidation::test_oversized_file_rejected",
+  "tests/test_rag.py::TestFileValidation::test_unsupported_extension_rejected",
+  "tests/test_rag.py::TestFileValidation::test_valid_pdf_passes",
+  "tests/test_rag.py::TestFileValidation::test_valid_txt_passes",
+  "tests/test_rag.py::TestInputValidation::test_empty_string_is_invalid",
+  "tests/test_rag.py::TestInputValidation::test_normal_query_is_valid",
+  "tests/test_rag.py::TestInputValidation::test_single_char_is_invalid",
+  "tests/test_rag.py::TestInputValidation::test_very_long_query_is_invalid",
+  "tests/test_rag.py::TestInputValidation::test_whitespace_only_is_invalid",
+  "tests/test_rag.py::TestRetriever::test_retriever_returns_correct_k",
+  "tests/test_rag.py::TestRetriever::test_retriever_returns_relevant_content",
+  "tests/test_rag.py::TestRetriever::test_retriever_returns_results",
+  "tests/test_rag.py::TestRetriever::test_retriever_with_unrelated_query",
+  "tests/test_rag.py::TestTextSplitter::test_chunk_size_respected",
+  "tests/test_rag.py::TestTextSplitter::test_empty_document_list",
+  "tests/test_rag.py::TestTextSplitter::test_short_text_stays_single_chunk",
+  "tests/test_rag.py::TestTextSplitter::test_splits_long_text_into_chunks"
+]
